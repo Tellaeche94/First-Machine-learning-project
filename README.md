@@ -7,7 +7,7 @@ The datasets used and the machine learning implemented in each of them were:
 
 	• Diamond Prices (https://www.kaggle.com/datasets/vittoriogiatti/diamondprices)
 
-		o Multiple Linear Regression to predict the price of the diamond based in its characteristics.
+		o Multi-Linear Regression to predict the price of the diamond based in its characteristics.
     
 		o K nearest neighbor (KNN) to predict the clarity of the diamond based in its characteristics
  
